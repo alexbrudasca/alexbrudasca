@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 👋 Hi, I’m Alex
+- 🌱 I’m currently learning JavaScript
+- 📫 How to reach me: alexandrubrudasca@gmail.com
+
 <!--
 **alexbrudasca/alexbrudasca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
